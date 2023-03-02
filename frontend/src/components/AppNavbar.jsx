@@ -1,7 +1,7 @@
 import { Button, Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
 import Logo from "../assets/logo.svg";
 import { useAuth } from "../context/AuthContext";
-// import { BsSearch } from "react-icons/Bs";
+import { BsSearch } from "react-icons/Bs";
 import { useState } from "react";
 
 const token = localStorage.getItem("token");
@@ -59,7 +59,7 @@ const AppNavbar = () => {
                       href={`/buscar?q=${search}`}
                       className="buttonSearch d-inline"
                     >
-                      {/* <BsSearch /> */}
+                      <BsSearch />
                     </Nav.Link>
                   </form>
                 </div>
