@@ -1,0 +1,24 @@
+.footer {
+  &-social {
+    display: flex;
+    justify-content: space-between;
+    width: 8.5rem;
+  }
+
+  .divider {
+    border: 1px solid black;
+    width: 50%;
+  }
+  &-link-container {
+    list-style-type: none;
+    width: 14rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: small;
+  }
+
+  &-link:not(:last-child) {
+    margin-right: 1rem;
+  }
+}
