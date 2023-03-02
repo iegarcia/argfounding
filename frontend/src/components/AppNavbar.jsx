@@ -1,5 +1,5 @@
 import { Button, Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
-import Logo from "../assets/logo.svg";
+
 import { useAuth } from "../context/AuthContext";
 import { BsSearch } from "react-icons/Bs";
 import { useState } from "react";
