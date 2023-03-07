@@ -1,5 +1,7 @@
 # ArgFounding
 
+Proyecto realizado en el marco del cohorte 9 puesto por No Country 2023.
+
 Crowdfunding platform con sistemas de recompensas para los donantes, principalmente enfocada a PyMes Argentinas.
 
 Crea tu campaña y fija tu objetivo monetario! Podés ofrecer distintos tier de recompensas para tus donantes basados en el monto de la donacion
@@ -37,4 +39,3 @@ Crea tu campaña y fija tu objetivo monetario! Podés ofrecer distintos tier de 
 <li>Backend: Matias Quiñones, Jeremias Oviedo</li>
 <li>Diseño UX/UI: Celeste Diaz, Yamila Elizondo</li>
 </ul>
-
